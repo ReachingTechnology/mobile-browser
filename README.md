@@ -1,4 +1,4 @@
 mobile-browser
 ==============
 
-browser can runing on android and iphone
+mobile browser can be runing on android and iphone.
